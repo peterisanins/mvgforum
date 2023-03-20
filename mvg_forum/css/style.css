@@ -1,0 +1,54 @@
+body{
+    background-image: url('../images/dark-honeycomb.png');
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.login{
+    width: 400px;
+    min-height: 400px;
+    padding: 50px;
+    background-color: rgb(27, 27, 27);
+    margin: 0 auto;
+    margin-top: 200px;
+    border-radius: 6px;
+}
+
+.header{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(27, 27, 27);
+    margin: 0px;
+}
+
+button{
+    height: 40px;
+    margin-top: 55px;
+    margin-right: 20px;
+    border: 2px solid beige;
+    background-color: rgb(27, 27, 27);
+    text-transform: uppercase;
+    font-family: monospace;
+    border-radius: 6px;
+    color: beige;
+}
+
+button:hover{
+    background-color: beige;
+    color: rgb(27, 27, 27);
+}
+
+.ieraksts{
+    background-color: rgb(27, 27, 27);
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    color: beige;
+    font-family: monospace;
+}

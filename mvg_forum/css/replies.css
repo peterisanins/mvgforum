@@ -1,0 +1,24 @@
+.og_post{
+    font-size: 15px;
+    background-color: rgb(27, 27, 27);
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    color: beige;
+    font-family: monospace;
+}
+
+.reply{
+    background-color: rgb(27, 27, 27);
+    width: 70%;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    color: beige;
+    font-family: monospace;
+}
